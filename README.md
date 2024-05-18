@@ -1,2 +1,1 @@
-# redefine
-$$
+# redefine stuff $$
